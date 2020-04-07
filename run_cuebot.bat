@@ -1,0 +1,2 @@
+java -jar D:\OpenCue\v4.0\cuebot-0.4.0-all.jar --datasource.cue-data-source.jdbc-url=jdbc:postgresql://localhost/cuebot_local --datasource.cue-data-source.username=cuebot --datasource.cue-data-source.password=54b85004bc2ffe531734f2ff72d06bfe --log.frame-log-root="D:\OpenCue\logs"
+pause
